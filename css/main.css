@@ -1,0 +1,73 @@
+/* inicio 1 */
+
+header{
+	background-image: url(../img/home.jpg);
+	max-width: 100%;
+	margin-top: -20px;
+}
+
+/* banner 2 */
+
+.banner a{
+	margin-bottom: 25%;
+}
+
+.title-page{
+	text-align: center;
+	margin-top: 200px;
+}
+
+/* contenido 3 */
+
+.title h1{
+	margin-top: 30px;
+	margin-bottom:30px;
+}
+
+.code p{
+	margin-top: 20px;
+}
+
+/* contenido 4 */
+
+.yellow{
+	background-color: yellow;
+	margin-top: 40px;
+}
+
+.img1{
+	width: 80%;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 60px;
+}
+
+.hack{
+	margin-top: 100px;
+}
+
+h2{
+	margin-bottom: 25px;
+}
+/* contenido 5 */
+
+.pc{
+	padding-top: 40px;
+}
+
+.registro{
+	margin-top: 40px;
+}
+
+/* footer */
+
+.calipso{
+	background-color: #33DFF2;
+	margin-top: 15px;
+}
+
+.calipso p{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
